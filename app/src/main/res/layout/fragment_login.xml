@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.LoginFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/tringapps_logo" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="40dp"
+            android:hint="username"
+            android:textColorHint="#90EE90"
+            app:boxBackgroundColor="@color/white">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/log_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="40dp"
+            android:hint="password"
+            android:textColorHint="#90EE90"
+            app:boxBackgroundColor="@color/white">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/log_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="40dp"
+                android:backgroundTint="@color/black"
+                android:text="Login"
+                android:textColor="#90EE90" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_register"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="false"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="30dp"
+                android:backgroundTint="@color/black"
+                android:text="Register"
+                android:textColor="#90EE90" />
+            <Switch
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="45dp"
+                android:text="switch1"
+                tools:ignore="UseSwitchCompatOrMaterialXml" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

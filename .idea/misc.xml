@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/drawable/ic_baseline_warning_24.xml" value="0.107" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/activity_profile.xml" value="0.12107396149949341" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/activity_register.xml" value="0.12107396149949341" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/activity_splash_screen.xml" value="0.24895833333333334" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/design_content_view.xml" value="0.12082066869300911" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/fragment_desc.xml" value="0.24895833333333334" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/fragment_login.xml" value="0.18596491228070175" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/fragment_over_view.xml" value="0.14221014492753623" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/fragment_register.xml" value="0.2" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/fragment_user_details.xml" value="0.24895833333333334" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/product_card_view.xml" value="0.2151268115942029" />
+        <entry key="..\:/Praveen Laptop BackUP/LoginwithFirebase/app/src/main/res/layout/sample.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Tringapps/Desktop/LoginwithFirebase/app/src/main/res/layout/activity_main.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Tringapps/Desktop/LoginwithFirebase/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Tringapps/Desktop/LoginwithFirebase/app/src/main/res/layout/design_content_view.xml" value="0.1" />
+        <entry key="..\:/Users/Tringapps/Desktop/LoginwithFirebase/app/src/main/res/layout/fragment_desc.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/Tringapps/Desktop/LoginwithFirebase/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Tringapps/Desktop/LoginwithFirebase/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Users/Tringapps/Desktop/LoginwithFirebase/app/src/main/res/layout/fragment_register.xml" value="0.1" />
+        <entry key="..\:/Users/Tringapps/Desktop/LoginwithFirebase/app/src/main/res/layout/fragment_web.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Tringapps/Desktop/LoginwithFirebase/app/src/main/res/layout/product_card_view.xml" value="0.176" />
+        <entry key="..\:/Users/Tringapps/Desktop/Praveen Laptop BackUp/LoginwithFirebase/app/src/main/res/layout/activity_splash_screen.xml" value="0.12107396149949341" />
+        <entry key="..\:/Users/Tringapps/Desktop/Praveen Laptop BackUp/LoginwithFirebase/app/src/main/res/layout/fragment_login.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

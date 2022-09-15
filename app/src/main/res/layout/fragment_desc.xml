@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/desc_view"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/desc_title"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="WEB Development"
+        android:layout_marginHorizontal="150dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:layout_marginTop="10dp"/>
+    <ImageView
+        android:id="@+id/desc_image"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/web_development"
+        android:layout_below="@id/desc_title"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+        android:layout_below="@id/desc_image"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textStyle="italic|bold"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:lineSpacingExtra="2dp"
+        android:letterSpacing=".005"/>
+
+
+</RelativeLayout>
